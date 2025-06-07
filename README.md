@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd Year CSE Student at Arya College of Engineering and IT  
-- 👨‍💻 Solved **580+** DSA problems on LeetCode  
+- 🎓 4th Year CSE Student at Arya College of Engineering and IT  
+- 👨‍💻 Solved **700+** DSA problems on LeetCode  
 - ⚔️ ICPC Aspirant & part of a coding group "**Berserkers**"  
 - 🔭 Currently building **WyvMusic**, a full-featured music app  
 - 🌱 Learning **Machine Learning** and **Open Source**  
-- ✉️ Reach me at: [ashishranjan777.ar@gmail.com](mailto:ashishranjan777.ar@gmail.com)
+- ✉️ Reach me at: [ashishranjanar1906@gmail.com](mailto:ashishranjanar1906@gmail.com)
 
 ---
 
