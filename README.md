@@ -46,19 +46,16 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashishranjan77" target="_blank">
+  <a href="https://linkedin.com/in/ashish-ranjan-27a618284" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ashishranjan777.ar@gmail.com">
+  <a href="mailto:ashishranjanar1906@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
 
 <!--
 **ashishwyv/ashishwyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
